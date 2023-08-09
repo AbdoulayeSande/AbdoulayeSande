@@ -1,6 +1,6 @@
 # Abdoulaye Sande 👋
 
-Salut! Je suis Abdoulaye. 🚀 Adepte du monde du développement et des technologies, j'ai étudié à l'école O'clock 🕰️. Ma curiosité ne s'arrête pas là - je suis également un fervent amateur de sport 🏋️‍♂️🚴‍♂️ et de lecture 📚.
+Hello! moi c'est Abdoulaye. 🚀 Adepte du monde du développement et des technologies, j'ai étudié à l'école O'clock 🕰️. Ma curiosité ne s'arrête pas là - je suis également un fervent amateur de sport 🏋️‍♂️🚴‍♂️ et de lecture 📚.
 
 ## Mes compétences 🔥
 
