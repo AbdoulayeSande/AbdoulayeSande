@@ -4,7 +4,7 @@ Hello! moi c'est Abdoulaye. 🚀 Adepte du monde du développement et des techno
 
 ## Mes compétences 🔥
 
-- **PHP** : Expert en Symfony 🎵 et Laravel 🍃
+- **PHP** : Symfony 🎵 et Laravel 🍃
 - **MySQL** 📊
 - **PHPUnit** 🧪
 - **Git** 🌱
